@@ -65,7 +65,7 @@ apt-get install git wget python3 -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+git clone https://github.com/dqanshi/XLR8_BOMBER
 ```
 Go to the Xlr8 directory
 ```bash
